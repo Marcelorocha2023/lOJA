@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\bin\Debug\net6.0\Eletroeletronica.exe
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\bin\Debug\net6.0\Eletroeletronica.deps.json
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\bin\Debug\net6.0\Eletroeletronica.runtimeconfig.json
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\bin\Debug\net6.0\Eletroeletronica.dll
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\bin\Debug\net6.0\Eletroeletronica.pdb
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\obj\Debug\net6.0\Eletroeletronica.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\obj\Debug\net6.0\Eletroeletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\obj\Debug\net6.0\Eletroeletronica.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\obj\Debug\net6.0\Eletroeletronica.AssemblyInfo.cs
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\obj\Debug\net6.0\Eletroeletronica.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\obj\Debug\net6.0\Eletroeletronica.dll
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\obj\Debug\net6.0\refint\Eletroeletronica.dll
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\obj\Debug\net6.0\Eletroeletronica.pdb
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\obj\Debug\net6.0\Eletroeletronica.genruntimeconfig.cache
+C:\Users\aluno\Desktop\MARCELO ROCHA\lOJA\Eletroeletronica\Eletroeletronica\obj\Debug\net6.0\ref\Eletroeletronica.dll
